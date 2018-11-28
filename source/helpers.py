@@ -34,17 +34,27 @@ def readGenes(gene_file):
 	return gene_list
 
 
+def convertGeneFile(gene_file):
+	gene_list = []
+	file = open(gene_file, 'r')
+	gene_list = file.readline().strip().split(';')
+	print gene_list
+	return gene_list
+
+
 def main():
 	interactome_file = 'interactome.tsv'
 	gene_file = sys.argv[1]
 
 	gene_dict = readInteractome(interactome_file)
-	gene_list = readGenes(gene_file)
+	# gene_list = readGenes(gene_file)   # use this for line separated gene file (schiz, bipolar, autism)
 
-	# print gene_dict
+	gene_list = convertGeneFile(gene_file)  # use this for semicolon separate gene file (heart disease, diabetes)
+
 	print len(gene_list)
 
 	print findGenes(gene_list, gene_dict)
 
+	
 if __name__ == '__main__':
     main()
