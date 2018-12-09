@@ -1,0 +1,549 @@
+﻿Variant and risk allele,P-value,P-value annotation,RAF,OR,Beta,CI,Mapped gene,Reported trait,Trait(s),Study accession
+rs1039002-?,2 x 10-8,(Latent Class 1),NR,-,-,-,PDE10A,Bipolar disorder,bipolar disorder,GCST001359
+rs12563333-?,6 x 10-8,(Latent Class 1),NR,-,-,-,LOC105372929,Bipolar disorder,bipolar disorder,GCST001359
+rs2727943-?,3 x 10-8,(Latent Class 2),NR,-,-,-,"RPL21P17, RPL23AP39",Bipolar disorder,bipolar disorder,GCST001359
+rs9378249-?,1 x 10-8,(addtive),NR,-,-,-,"HLA-B, DHFRP2",Bipolar disorder,bipolar disorder,GCST000961
+rs12938916-?,5 x 10-7,(dominant),NR,-,-,-,LOC105371839,Bipolar disorder,bipolar disorder,GCST000961
+rs420259-?,9 x 10-9,(recessive),NR,-,-,-,PALB2,Bipolar disorder,bipolar disorder,GCST000961
+rs3761218-?,1 x 10-6,(dominant),NR,-,-,-,CDC25B,Bipolar disorder,bipolar disorder,GCST000961
+rs2989476-?,2 x 10-6,(dominant),NR,-,-,-,LOC105378763,Bipolar disorder,bipolar disorder,GCST000961
+rs4027132-?,3 x 10-6,(recessive),NR,-,-,-,"LOC100506457, LOC105373430",Bipolar disorder,bipolar disorder,GCST000961
+rs7570682-?,3 x 10-6,(addtive),NR,-,-,-,"LOC100287010, LOC105373523",Bipolar disorder,bipolar disorder,GCST000961
+rs1375144-?,2 x 10-6,(addtive),NR,-,-,-,DPP10,Bipolar disorder,bipolar disorder,GCST000961
+rs2953174-?,6 x 10-6,(addtive),NR,-,-,-,CAPN10-AS1,Bipolar disorder,bipolar disorder,GCST000961
+rs4627791-?,2 x 10-6,(addtive),NR,-,-,-,CMTM8,Bipolar disorder,bipolar disorder,GCST000961
+rs514636-?,7 x 10-7,(dominant),NR,-,-,-,LAMP3,Bipolar disorder,bipolar disorder,GCST000961
+rs6844851-?,9 x 10-7,(dominant),NR,-,-,-,"LOC105377564, LOC105377563",Bipolar disorder,bipolar disorder,GCST000961
+rs2286492-?,8 x 10-6,(recessive),NR,-,-,-,FAM126A,Bipolar disorder,bipolar disorder,GCST000961
+rs2609653-?,7 x 10-6,(addtive),NR,-,-,-,"RPL10AP3, LINC01288",Bipolar disorder,bipolar disorder,GCST000961
+rs4739466-?,4 x 10-6,(recessive),NR,-,-,-,"LOC105379377, SMARCE1P4",Bipolar disorder,bipolar disorder,GCST000961
+rs914715-?,1 x 10-6,(dominant),NR,-,-,-,TLE4,Bipolar disorder,bipolar disorder,GCST000961
+rs10982256-?,9 x 10-6,(addtive),NR,-,-,-,DFNB31,Bipolar disorder,bipolar disorder,GCST000961
+rs17600642-?,5 x 10-6,(addtive),NR,-,-,-,ADAMTS14,Bipolar disorder,bipolar disorder,GCST000961
+rs1568889-?,2 x 10-6,(recessive),NR,-,-,-,"KIF18A, HSP90AA2P",Bipolar disorder,bipolar disorder,GCST000961
+rs10134944-?,1 x 10-6,(dominant),NR,-,-,-,SLC35F4,Bipolar disorder,bipolar disorder,GCST000961
+rs6574988-?,4 x 10-6,(dominant),NR,-,-,-,"LOC107984699, LINC01146",Bipolar disorder,bipolar disorder,GCST000961
+rs11622475-?,2 x 10-6,(addtive),NR,-,-,-,TDRD9,Bipolar disorder,bipolar disorder,GCST000961
+rs1344484-?,2 x 10-6,(addtive),NR,-,-,-,"LOC146253, PHBP21",Bipolar disorder,bipolar disorder,GCST000961
+rs7247513-?,2 x 10-6,(addtive),NR,-,-,-,ZNF490,Bipolar disorder,bipolar disorder,GCST000961
+rs1012053-A,2 x 10-8,,0.84,1.59,-,[1.35-1.87],DGKH,Bipolar disorder,bipolar disorder,GCST000033
+rs416350-?,4 x 10-8,(Hyperthymic),NR,-,2.1 unit increase,[NR],"LOC100507195, LOC105369819",Temperament (bipolar disorder),"bipolar disorder, behavior or behavioral disorder measurement, personality trait",GCST001419
+rs1985671-?,2 x 10-8,(Hyperthymic),NR,-,1.06 unit decrease,[NR],FBLN1,Temperament (bipolar disorder),"bipolar disorder, behavior or behavioral disorder measurement, personality trait",GCST001419
+rs17018311-?,2 x 10-8,(Irritable),NR,-,4.21 unit increase,[NR],INTS7,Temperament (bipolar disorder),"bipolar disorder, behavior or behavioral disorder measurement, personality trait",GCST001419
+rs2150410-?,4 x 10-6,(Hyperthymic),NR,-,1.69 unit decrease,[NR],BRWD1,Temperament (bipolar disorder),"bipolar disorder, behavior or behavioral disorder measurement, personality trait",GCST001419
+rs6767049-?,2 x 10-6,(Dysthymic),NR,-,0.77 unit decrease,[NR],"SGOL1, SGOL1-AS1",Temperament (bipolar disorder),"bipolar disorder, behavior or behavioral disorder measurement, personality trait",GCST001419
+rs17599018-?,2 x 10-6,(Dysthymic),NR,-,0.98 unit increase,[NR],GPM6A,Temperament (bipolar disorder),"personality trait, bipolar disorder, behavior or behavioral disorder measurement",GCST001419
+rs11035577-?,6 x 10-6,(Dysthymic),NR,-,1.03 unit decrease,[NR],LOC105376637,Temperament (bipolar disorder),"personality trait, bipolar disorder, behavior or behavioral disorder measurement",GCST001419
+rs17121944-?,4 x 10-6,(Dysthymic),NR,-,2.66 unit increase,[NR],LOC105369791,Temperament (bipolar disorder),"personality trait, bipolar disorder, behavior or behavioral disorder measurement",GCST001419
+rs2155929-?,5 x 10-6,(Dysthymic),NR,-,1.01 unit increase,[NR],"LOC105372043, RNU6-408P",Temperament (bipolar disorder),"personality trait, bipolar disorder, behavior or behavioral disorder measurement",GCST001419
+rs17371334-?,2 x 10-6,(Cyclothymic),NR,-,1.05 unit decrease,[NR],"LOC105370289, LINC00333",Temperament (bipolar disorder),"bipolar disorder, behavior or behavioral disorder measurement, personality trait",GCST001419
+rs4075511-?,3 x 10-6,(Irritable),NR,-,0.93 unit decrease,[NR],"LOC105373451, KCNS3",Temperament (bipolar disorder),"bipolar disorder, behavior or behavioral disorder measurement, personality trait",GCST001419
+rs4698169-?,2 x 10-6,(Anxious),NR,-,2.11 unit increase,[NR],"LOC105374507, LOC101929123",Temperament (bipolar disorder),"bipolar disorder, behavior or behavioral disorder measurement, personality trait",GCST001419
+rs7313402-?,8 x 10-6,(Anxious),NR,-,1.13 unit increase,[NR],"WSCD2, LOC105369965",Temperament (bipolar disorder),"bipolar disorder, behavior or behavioral disorder measurement, personality trait",GCST001419
+rs2610025-A,5 x 10-6,(suicide behaviour severity),-,-,0.02332 unit decrease,[0.0069-0.0397],"LOC105375851, RPL37P6",Suicide in bipolar disorder,"bipolar disorder, suicide behaviour measurement",GCST002699
+rs7079041-A,2 x 10-6,(suicide behaviour severity),-,-,0.02383 unit increase,[0.0067-0.0409],CCDC7,Suicide in bipolar disorder,"bipolar disorder, suicide behaviour measurement",GCST002699
+rs72977016-?,7 x 10-9,,NR,-,-,-,LOC102724068,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs79436609-?,3 x 10-8,,NR,-,-,-,TRIM42,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs290475-?,3 x 10-7,,NR,-,-,-,TCF7L2,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs12300899-?,5 x 10-7,,NR,-,-,-,LOC105370052,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs58630086-?,6 x 10-7,,NR,-,-,-,ALOX12P2,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs116951791-?,7 x 10-7,,NR,-,-,-,"LOC105375638, RPS26P10",Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs150404479-?,1 x 10-6,,NR,-,-,-,"CFAP57, LOC105378685",Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs62110082-?,1 x 10-6,,NR,-,-,-,LOC105369197,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs147721431-?,1 x 10-6,,NR,-,-,-,"LOC105379083, LOC107986388",Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs183418565-?,2 x 10-6,,NR,-,-,-,"LOC105370728, LOC105370726",Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs7588591-?,2 x 10-6,,NR,-,-,-,CLHC1,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs10782174-?,2 x 10-6,,NR,-,-,-,LOC107986634,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs11660238-?,2 x 10-6,,NR,-,-,-,LOC643542,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs74789784-?,2 x 10-6,,NR,-,-,-,LOC643542,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs75687134-?,2 x 10-6,,NR,-,-,-,LOC643542,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs391760-?,2 x 10-6,,NR,-,-,-,"RN7SL87P, HMHB1",Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs72795980-?,2 x 10-6,,NR,-,-,-,FBXL17,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs409220-?,3 x 10-6,,NR,-,-,-,"HMHB1, RN7SL87P",Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs114588203-?,3 x 10-6,,NR,-,-,-,"RAP1B, RPSAP12",Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs116075389-?,3 x 10-6,,NR,-,-,-,"RAP1B, RPSAP12",Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs58873874-?,3 x 10-6,,NR,-,-,-,ADAM19,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs74619861-?,3 x 10-6,,NR,-,-,-,NAALADL2,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs118174081-?,3 x 10-6,,NR,-,-,-,TSHZ2,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs4814920-?,3 x 10-6,,NR,-,-,-,RIN2,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs72795979-?,3 x 10-6,,NR,-,-,-,FBXL17,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs11957407-?,3 x 10-6,,NR,-,-,-,PDZD2,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs150888153-?,4 x 10-6,,NR,-,-,-,SLC25A36,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs141220432-?,4 x 10-6,,NR,-,-,-,SLC25A36,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs117982730-?,4 x 10-6,,NR,-,-,-,"LOC105375488, GRM8",Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs6921059-?,4 x 10-6,,NR,-,-,-,"TFAP2D, LOC100505985",Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs191753171-?,4 x 10-6,,NR,-,-,-,"LOC107985913, LOC101926946",Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs150516896-?,4 x 10-6,,NR,-,-,-,"RPSAP12, RAP1B",Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs62421103-?,4 x 10-6,,NR,-,-,-,LOC107986634,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs116979167-?,5 x 10-6,,NR,-,-,-,YBX1P2,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs6963495-?,5 x 10-6,,NR,-,-,-,"LOC100131785, PUS7",Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs116896199-?,5 x 10-6,,NR,-,-,-,CDH4,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs34975147-?,5 x 10-6,,NR,-,-,-,JPH3,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs80088139-?,5 x 10-6,,NR,-,-,-,FAM19A5,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs113508841-?,6 x 10-6,,NR,-,-,-,"PDE7B, MTFR2",Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs114535501-?,6 x 10-6,,NR,-,-,-,LOC643542,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs11661646-?,6 x 10-6,,NR,-,-,-,LOC643542,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs77372450-?,6 x 10-6,,NR,-,-,-,ADAM19,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs17746001-T,3 x 10-7,,NR,2.03,-,[NR],"LOC105377564, LOC105377563",Bipolar disorder,bipolar disorder,GCST001569
+rs17040430-T,9 x 10-7,,NR,1.89,-,[NR],"CMKLR1, LINC01498",Bipolar disorder,bipolar disorder,GCST001569
+rs271738-A,5 x 10-6,,NR,1.32,-,[NR],"LINC01354, TARBP1",Bipolar disorder,bipolar disorder,GCST001569
+rs289585-?,5 x 10-6,,NR,1.45,-,[NR],DLC1,Bipolar disorder,bipolar disorder,GCST001569
+rs41350144-T,3 x 10-7,(SM vs. NSM),0.477,2.269,-,[1.66-3.11],NFIA,Bipolar disorder,bipolar disorder,GCST001647
+"rs12568010-A, rs1125777-C, rs41453448-G",2 x 10-7,,NR,2.5,-,[NR],NFIA; NFIA; NFIA,Bipolar disorder,bipolar disorder,GCST001647
+rs17541406-?,1 x 10-6,,NR,-,-,-,LOC105370982,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs12772424-?,3 x 10-8,,NR,-,-,-,TCF7L2,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs11150078-?,2 x 10-6,,NR,-,-,-,WWOX,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs1043607-?,4 x 10-6,,NR,-,-,-,TMEM132B,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs1625975-?,3 x 10-6,,NR,-,-,-,CDH23,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs7690204-?,5 x 10-6,,NR,-,-,-,LOC105377462,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs6934970-?,7 x 10-6,,NR,-,-,-,LOC107986634,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs2699783-?,7 x 10-6,,NR,-,-,-,LOC105369168,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+rs10070308-?,4 x 10-6,,NR,-,-,-,FBXL17,Bipolar disorder (body mass index interaction),"body mass index, bipolar disorder",GCST002306
+"rs12568010-A, rs1125777-C",2 x 10-7,,NR,2.34,-,[NR],NFIA; NFIA,Bipolar disorder,bipolar disorder,GCST001647
+"rs7556462-C, rs17121983-C",4 x 10-7,,NR,2.26,-,[NR],NFIA; NFIA,Bipolar disorder,bipolar disorder,GCST001647
+"rs7556462-C, rs4915737-C",4 x 10-7,,NR,2.26,-,[NR],NFIA; NFIA,Bipolar disorder,bipolar disorder,GCST001647
+rs10237317-?,5 x 10-6,(SM vs. Control),NR,1.775,-,[NR],AUTS2,Bipolar disorder,bipolar disorder,GCST001647
+rs2245641-?,2 x 10-6,(SM vs. Control),NR,1.896,-,[NR],"TTC39B, RPL7P33",Bipolar disorder,bipolar disorder,GCST001647
+rs9995093-?,7 x 10-6,(NSM vs. Control),NR,2.067,-,[NR],LOC105369192,Bipolar disorder,bipolar disorder,GCST001647
+rs3750552-?,5 x 10-6,(NSM vs. Control),NR,1.679,-,[NR],FAM189A2,Bipolar disorder,bipolar disorder,GCST001647
+rs7897194-?,8 x 10-6,(NSM vs. Control),NR,2.91,-,[NR],"MIR4675, AMD1P1",Bipolar disorder,bipolar disorder,GCST001647
+rs312273-?,9 x 10-6,(NSM vs. Control),NR,1.566,-,[NR],CNTN1,Bipolar disorder,bipolar disorder,GCST001647
+rs4467006-?,7 x 10-6,(NSM vs. Control),NR,1.593,-,[NR],TMEM63C,Bipolar disorder,bipolar disorder,GCST001647
+rs2287375-?,5 x 10-6,(NSM vs. Control),NR,1.606,-,[NR],TMEM63C,Bipolar disorder,bipolar disorder,GCST001647
+rs6510489-?,8 x 10-6,(NSM vs. Control),NR,1.92,-,[NR],"KRTDAP, FFAR2",Bipolar disorder,bipolar disorder,GCST001647
+rs6124684-?,9 x 10-6,(NSM vs. Control),NR,1.73,-,[NR],KCNS1,Bipolar disorder,bipolar disorder,GCST001647
+rs1171113-C,1 x 10-7,,NR,1.23,-,[NR],PRSS35,Bipolar disorder with mood-incongruent psychosis,bipolar disorder,GCST001715
+rs9834970-?,1 x 10-7,,NR,1.22,-,[NR],"LOC105377030, LOC105377031",Bipolar disorder with mood-incongruent psychosis,bipolar disorder,GCST001715
+rs2333194-?,7 x 10-7,,NR,1.2,-,[NR],NUMB,Bipolar disorder with mood-incongruent psychosis,bipolar disorder,GCST001715
+rs11710433-?,1 x 10-6,,NR,1.23,-,[NR],"MRPS35P1, LOC105376939",Bipolar disorder with mood-incongruent psychosis,bipolar disorder,GCST001715
+rs4450798-T,2 x 10-6,,NR,1.26,-,[NR],LINC00620,Bipolar disorder with mood-incongruent psychosis,bipolar disorder,GCST001715
+rs11773966-A,2 x 10-6,,NR,2.17,-,[NR],"MAPK6PS1, LOC100129667",Bipolar disorder with mood-incongruent psychosis,bipolar disorder,GCST001715
+rs10865974-?,2 x 10-6,,NR,1.19,-,[NR],PBRM1,Bipolar disorder with mood-incongruent psychosis,bipolar disorder,GCST001715
+rs3744728-C,3 x 10-6,,NR,1.51,-,[NR],"RNU6-1264P, LOC105371508",Bipolar disorder with mood-incongruent psychosis,bipolar disorder,GCST001715
+rs2860031-?,3 x 10-6,,NR,1.22,-,[NR],"LOC105378617, LOC101929406",Bipolar disorder with mood-incongruent psychosis,bipolar disorder,GCST001715
+rs3934861-?,4 x 10-6,,NR,1.25,-,[NR],MYOM3,Bipolar disorder with mood-incongruent psychosis,bipolar disorder,GCST001715
+rs10255295-G,5 x 10-6,,NR,1.31,-,[NR],"RPS17P12, LOC107986749",Bipolar disorder with mood-incongruent psychosis,bipolar disorder,GCST001715
+rs1775715-G,5 x 10-6,,NR,1.18,-,[NR],KIF5B,Bipolar disorder with mood-incongruent psychosis,bipolar disorder,GCST001715
+rs2962370-G,5 x 10-6,,NR,1.19,-,[NR],LOC285696,Bipolar disorder with mood-incongruent psychosis,bipolar disorder,GCST001715
+rs1680005-A,7 x 10-6,,NR,1.18,-,[NR],"TMEM217, PIM1",Bipolar disorder with mood-incongruent psychosis,bipolar disorder,GCST001715
+rs12617721-C,7 x 10-6,,NR,1.2,-,[NR],INPP4A,Bipolar disorder with mood-incongruent psychosis,bipolar disorder,GCST001715
+rs1930961-?,9 x 10-6,,NR,1.39,-,[NR],"LOC100996404, CRYBB2P1",Bipolar disorder with mood-incongruent psychosis,bipolar disorder,GCST001715
+rs17079247-T,8 x 10-6,(IM vs. EM),NR,1.75,-,-,LINC00375,Bipolar disorder (mania),bipolar disorder,GCST001811
+rs114034759-A,6 x 10-7,,NR,1.83,-,[NR],MKLN1,Bipolar disorder (early onset),bipolar disorder,GCST003742
+rs17099448-?,3 x 10-6,(externalizing vs. non-externalizing),-,2.1584287,-,[NR],"ST6GALNAC3, TPI1P1",Bipolar disorder,bipolar disorder,GCST002809
+rs17622252-?,4 x 10-6,(externalizing vs. non-externalizing),-,1.658,-,[NR],"LINC00581, CDKAL1",Bipolar disorder,bipolar disorder,GCST002809
+rs9359856-?,5 x 10-6,(early-onset vs. non-externalizing),-,1.6417665,-,[NR],ANKRD6,Bipolar disorder,bipolar disorder,GCST002809
+rs4761053-?,7 x 10-6,(early-onset vs. non-externalizing),-,1.525,-,[NR],"LOC105370070, LINC00508",Bipolar disorder,bipolar disorder,GCST002809
+rs16841832-G,9 x 10-6,,0.76,2,-,[NR],CADM3,Bipolar disorder and eating disorder,"bipolar disorder, eating disorder",GCST003135
+rs2685295-A,7 x 10-6,,0.61,1.724138,-,[NR],RYR2,Bipolar disorder and eating disorder,"bipolar disorder, eating disorder",GCST003135
+rs1805576-G,1 x 10-6,,0.21,1.79,-,[NR],FXR1,Bipolar disorder and eating disorder,"bipolar disorder, eating disorder",GCST003135
+rs4854912-T,9 x 10-8,,0.19,1.91,-,[NR],SOX2-OT,Bipolar disorder and eating disorder,"bipolar disorder, eating disorder",GCST003135
+rs10965890-C,4 x 10-6,,0.06,2.27,-,[NR],LOC101929563,Bipolar disorder and eating disorder,"bipolar disorder, eating disorder",GCST003135
+rs7912575-G,3 x 10-6,,0.01,4.52,-,[NR],NRG3,Bipolar disorder and eating disorder,"bipolar disorder, eating disorder",GCST003135
+rs10858583-C,2 x 10-7,,0.23,1.84,-,[NR],LOC107984478,Bipolar disorder and eating disorder,"bipolar disorder, eating disorder",GCST003135
+rs314580-G,8 x 10-6,,0.04,2.41,-,[NR],LINC00440,Bipolar disorder and eating disorder,"bipolar disorder, eating disorder",GCST003135
+rs9554752-T,6 x 10-6,,0.36,1.65,-,[NR],NALCN,Bipolar disorder and eating disorder,"bipolar disorder, eating disorder",GCST003135
+rs12149074-G,4 x 10-6,,0.63,1.7857143,-,[NR],LOC105371357,Bipolar disorder and eating disorder,"bipolar disorder, eating disorder",GCST003135
+rs9845942-T,5 x 10-6,,0.27,1.68,-,[NR],LOC100130207,Eating disorder in bipolar disorder,"bipolar disorder, eating disorder",GCST003132
+rs1805576-G,4 x 10-6,,0.21,1.71,-,[NR],FXR1,Eating disorder in bipolar disorder,"bipolar disorder, eating disorder",GCST003132
+rs13086738-G,2 x 10-7,,0.2,1.84,-,[NR],SOX2-OT,Eating disorder in bipolar disorder,"bipolar disorder, eating disorder",GCST003132
+rs12149074-G,4 x 10-7,,0.63,1.8867927,-,[NR],LOC105371357,Eating disorder in bipolar disorder,"bipolar disorder, eating disorder",GCST003132
+rs4148087-A,4 x 10-7,,0.13,2,-,[NR],ABCG1,Eating disorder in bipolar disorder,"bipolar disorder, eating disorder",GCST003132
+rs16865916-?,6 x 10-6,,NR,3.621,-,[2.073-6.324],LOC101929452,Manic episodes in bipolar disorder,"bipolar disorder, manic or hypomanic episode",GCST003089
+rs3101942-?,7 x 10-6,,NR,1.733,-,[1.365-2.201],LOC100294145,Manic episodes in bipolar disorder,"bipolar disorder, manic or hypomanic episode",GCST003089
+rs2485892-?,7 x 10-6,,NR,1.844,-,[1.412-2.409],"SYT14, SERTAD4-AS1",Manic episodes in bipolar disorder,"bipolar disorder, manic or hypomanic episode",GCST003089
+rs10198175-?,1 x 10-6,,NR,1.92,-,[NR],"LOC101928271, APOB",Binge eating behaviour and bipolar disorder,"binge eating, bipolar disorder",GCST002419
+rs13233490-?,4 x 10-6,,NR,4.89,-,[NR],"RPL9P19, GAPDHP68",Binge eating behaviour and bipolar disorder,"binge eating, bipolar disorder",GCST002419
+rs6006893-?,9 x 10-7,,NR,1.99,-,[NR],"ARHGAP8, PRR5-ARHGAP8",Binge eating behaviour in bipolar disorder,"binge eating, bipolar disorder",GCST002420
+rs10448044-C,3 x 10-6,(suicide attempt),-,-,4.685 z score increase,-,LOC107986892,Suicide in bipolar disorder,"bipolar disorder, attempted suicide",GCST002699
+rs7244261-T,4 x 10-6,(suicide attempt),-,-,4.606 z score increase,-,"TMX3, MTL3P",Suicide in bipolar disorder,"bipolar disorder, attempted suicide",GCST002699
+rs1553441-?,6 x 10-6,(adaptative permutation),-,2.44,-,[NR],"PLD5, LOC107985466",Hypersomnia during a major depressive episode in bipolar disorder,"bipolar disorder, hypersomnia, major depressive episode",GCST003016
+rs6479352-?,8 x 10-6,(anti-CMV),-,-,-,-,"PAICSP2, LOC105376146",Bipolar disorder (inflammation and infection response interaction),"bipolar disorder, cytomegalovirus seropositivity",GCST002815
+rs9910816-?,2 x 10-6,(anti-CMV),-,-,-,-,ARSG,Bipolar disorder (inflammation and infection response interaction),"bipolar disorder, cytomegalovirus seropositivity",GCST002815
+rs885553-?,8 x 10-7,(anti-HSV1),-,-,-,-,LINC01121,Bipolar disorder (inflammation and infection response interaction),"bipolar disorder, HSV1 seropositivity",GCST002815
+rs4234848-?,4 x 10-6,(anti-HSV1),-,-,-,-,ANTXR2,Bipolar disorder (inflammation and infection response interaction),"bipolar disorder, HSV1 seropositivity",GCST002815
+rs3736986-?,6 x 10-6,(anti-HSV1),-,-,-,-,CLTA,Bipolar disorder (inflammation and infection response interaction),"bipolar disorder, HSV1 seropositivity",GCST002815
+rs10513249-?,9 x 10-9,,NR,-,0.18 unit increase,[NR],"DFNB31, LOC105376229",Depressive episodes in bipolar disorder,"bipolar disorder, depressive episode measurement",GCST003091
+rs2190547-?,9 x 10-7,,NR,-,0.08 unit increase,[NR],"LOC100131241, LOC105371884",Depressive episodes in bipolar disorder,"bipolar disorder, depressive episode measurement",GCST003091
+rs6993270-?,1 x 10-6,,NR,-,0.12 unit increase,[NR],DEPTOR,Depressive episodes in bipolar disorder,"bipolar disorder, depressive episode measurement",GCST003091
+rs9362426-?,1 x 10-6,,NR,-,0.08 unit increase,[NR],"C6orf163, LINC01590",Depressive episodes in bipolar disorder,"bipolar disorder, depressive episode measurement",GCST003091
+rs6568686-?,2 x 10-6,,NR,-,0.08 unit increase,[NR],TRAF3IP2-AS1,Depressive episodes in bipolar disorder,"bipolar disorder, depressive episode measurement",GCST003091
+rs7123770-?,3 x 10-6,,NR,-,0.14 unit increase,[NR],"LOC107984373, LOC387820",Depressive episodes in bipolar disorder,"bipolar disorder, depressive episode measurement",GCST003091
+rs1528010-?,9 x 10-6,,NR,-,0.06 unit increase,[NR],"BTF3P13, LOC105377343",Depressive episodes in bipolar disorder,"bipolar disorder, depressive episode measurement",GCST003091
+rs6568686-?,4 x 10-8,,NR,-,0.11 unit increase,[NR],TRAF3IP2-AS1,Depressive and manic episodes in bipolar disorder,"bipolar disorder, depressive episode measurement, manic episode measurement",GCST003090
+rs1359582-?,1 x 10-7,,NR,-,0.09 unit increase,[NR],RNLS,Depressive and manic episodes in bipolar disorder,"depressive episode measurement, manic episode measurement, bipolar disorder",GCST003090
+rs10513249-?,5 x 10-7,,NR,-,0.18 unit increase,[NR],"DFNB31, LOC105376229",Depressive and manic episodes in bipolar disorder,"bipolar disorder, depressive episode measurement, manic episode measurement",GCST003090
+rs10489167-?,6 x 10-7,,NR,-,0.16 unit increase,[NR],NFYC,Depressive and manic episodes in bipolar disorder,"bipolar disorder, depressive episode measurement, manic episode measurement",GCST003090
+rs6993270-?,9 x 10-7,,NR,-,0.14 unit increase,[NR],DEPTOR,Depressive and manic episodes in bipolar disorder,"bipolar disorder, depressive episode measurement, manic episode measurement",GCST003090
+rs16840900-?,4 x 10-6,,NR,-,0.09 unit increase,[NR],SORCS2,Depressive and manic episodes in bipolar disorder,"bipolar disorder, depressive episode measurement, manic episode measurement",GCST003090
+rs7123770-?,7 x 10-6,,NR,-,0.15 unit increase,[NR],"LOC107984373, LOC387820",Depressive and manic episodes in bipolar disorder,"bipolar disorder, depressive episode measurement, manic episode measurement",GCST003090
+rs726170-T,3 x 10-8,,0.12,1.923077,-,[NR],"PRR5-ARHGAP8, ARHGAP8",Binge eating behaviour in bipolar disorder,"binge eating, bipolar disorder",GCST005387
+rs7904579-G,1 x 10-7,,0.37,1.56,-,[NR],CUBN,Binge eating behaviour in bipolar disorder,"binge eating, bipolar disorder",GCST005387
+rs1950038-T,7 x 10-7,,0.3,1.6,-,[NR],"CACYBPP2, LIN28AP1",Binge eating behaviour in bipolar disorder,"binge eating, bipolar disorder",GCST005387
+rs182107583-C,1 x 10-6,,0.04,3.2258062,-,[NR],LOC101929231,Binge eating behaviour in bipolar disorder,"binge eating, bipolar disorder",GCST005387
+rs76087671-T,1 x 10-6,,0.05,2.3255813,-,[NR],LOC105372577,Binge eating behaviour in bipolar disorder,"binge eating, bipolar disorder",GCST005387
+rs111940429-T,1 x 10-8,,0.04,2.857143,-,[NR],"LOC105373536, LOC105373538",Binge eating behaviour and bipolar disorder,"binge eating, bipolar disorder",GCST005386
+rs17810023-T,9 x 10-8,,0.02,3.846154,-,[NR],BCKDHB,Binge eating behaviour and bipolar disorder,"binge eating, bipolar disorder",GCST005386
+rs7337127-T,3 x 10-7,,0.15,1.754386,-,[NR],"LOC107984624, LOC105370340",Binge eating behaviour and bipolar disorder,"binge eating, bipolar disorder",GCST005386
+rs145763646-A,3 x 10-7,,0.1,2.0833335,-,[NR],SLC25A26,Binge eating behaviour and bipolar disorder,"binge eating, bipolar disorder",GCST005386
+rs73057489-C,1 x 10-6,,0.07,2,-,[NR],"PSMC1P8, RPL7P40",Binge eating behaviour and bipolar disorder,"binge eating, bipolar disorder",GCST005386
+rs8099939-T,2 x 10-6,,0.39,1.95,-,[1.43-2.67],GRIK5,Bipolar disorder,bipolar disorder,GCST001164
+rs6122972-A,3 x 10-6,,0.82,2.02,-,[1.46-2.80],"PARD6B, BCAS4",Bipolar disorder,bipolar disorder,GCST001164
+rs2289700-A,9 x 10-6,,0.07,2.13,-,[1.53-2.95],CTSH,Bipolar disorder,bipolar disorder,GCST001164
+rs6484218-A,4 x 10-8,,0.14,-,-,-,CAND1.11,"Schizophrenia, bipolar disorder and depression (combined)","unipolar depression, bipolar disorder, mental or behavioural disorder",GCST000774
+rs1001021-A,2 x 10-6,,0.02,-,-,-,MYO18B,"Schizophrenia, bipolar disorder and depression (combined)","unipolar depression, bipolar disorder, mental or behavioural disorder",GCST000774
+rs7326068-A,3 x 10-6,,0.19,-,-,-,IFT88,"Schizophrenia, bipolar disorder and depression (combined)","unipolar depression, bipolar disorder, mental or behavioural disorder",GCST000774
+rs3758354-C,3 x 10-6,,0.03,-,-,-,"LOC105376081, ANXA1","Schizophrenia, bipolar disorder and depression (combined)","unipolar depression, bipolar disorder, mental or behavioural disorder",GCST000774
+rs4982029-A,4 x 10-6,,0.02,-,-,-,NPAS3,"Schizophrenia, bipolar disorder and depression (combined)","unipolar depression, bipolar disorder, mental or behavioural disorder",GCST000774
+rs4650608-T,8 x 10-9,,NR,-,-,-,"LOC652549, ADGRL4",Bipolar disorder,bipolar disorder,GCST001358
+rs2271893-G,2 x 10-10,,NR,-,-,-,LMAN2L,Bipolar disorder,bipolar disorder,GCST001358
+rs7618915-G,3 x 10-10,,NR,-,-,-,"LOC101929054, PPM1M",Bipolar disorder,bipolar disorder,GCST001358
+rs9834970-C,1 x 10-12,,NR,-,-,-,"LOC105377030, LOC105377031",Bipolar disorder,bipolar disorder,GCST001358
+rs4948418-T,4 x 10-10,,NR,-,-,-,ANK3,Bipolar disorder,bipolar disorder,GCST001358
+rs472913-C,2 x 10-7,,0.5,1.18,-,[1.11-1.25],"LOC101926964, LOC105378763",Bipolar disorder,bipolar disorder,GCST000387
+rs13409348-G,3 x 10-6,,0.24,1.2,-,[1.11-1.29],LOC107985902,Bipolar disorder,bipolar disorder,GCST000387
+rs6733011-G,3 x 10-6,,0.46,1.17,-,[1.10-1.25],KIAA1211L,Bipolar disorder,bipolar disorder,GCST000387
+rs1042779-A,2 x 10-7,,0.63,1.19,-,[1.11-1.27],ITIH1,Bipolar disorder,bipolar disorder,GCST000387
+rs7427021-G,5 x 10-6,,0.56,1.16,-,[1.09-1.24],LOC102724419,Bipolar disorder,bipolar disorder,GCST000387
+rs2537859-T,4 x 10-6,,0.6,1.16,-,[1.09-1.24],"KIT, LOC339978",Bipolar disorder,bipolar disorder,GCST000387
+rs17418283-C,1 x 10-7,,0.28,1.21,-,[1.13-1.30],MCTP1,Bipolar disorder,bipolar disorder,GCST000387
+rs6990255-T,6 x 10-6,,0.95,1.33,-,[1.18-1.51],"RPL10AP3, LOC105379365",Bipolar disorder,bipolar disorder,GCST000387
+rs2905072-A,6 x 10-6,,0.77,1.21,-,[1.11-1.32],GFI1B,Bipolar disorder,bipolar disorder,GCST000387
+rs2242663-T,1 x 10-6,,0.25,1.2,-,[1.11-1.29],CTSF,Bipolar disorder,bipolar disorder,GCST000387
+rs6494849-A,7 x 10-6,,0.12,1.23,-,[1.13-1.35],"RNU6-745P, LOC107984734",Bipolar disorder,bipolar disorder,GCST000387
+rs1035050-T,9 x 10-6,,0.4,1.17,-,[1.09-1.25],"LOC101927207, NGFR",Bipolar disorder,bipolar disorder,GCST000387
+rs7250872-T,2 x 10-6,,0.69,1.21,-,[1.12-1.31],ATP8B3,Bipolar disorder,bipolar disorder,GCST000387
+rs2111504-T,2 x 10-6,(AA),0.23,1.74,-,[NR],DPY19L3,Bipolar disorder,bipolar disorder,GCST000417
+rs1006737-?,7 x 10-8,(BP vs. controls),NR,-,-,-,CACNA1C,Schizophrenia or bipolar disorder,bipolar disorder,GCST002295
+rs9834970-?,4 x 10-7,(BP vs. controls),NR,-,-,-,"LOC105377030, LOC105377031",Schizophrenia or bipolar disorder,bipolar disorder,GCST002295
+rs2934442-?,1 x 10-6,(age of onset),NR,-,1.022 unit decrease,[NR],CGNL1,Bipolar disorder (age of onset and psychotic symptoms),"age at onset, bipolar disorder",GCST000969
+rs7795096-?,2 x 10-6,(psychotic symptoms),NR,1.2,-,[NR],PRKAG2,Bipolar disorder (age of onset and psychotic symptoms),"bipolar disorder, psychotic symptoms",GCST000969
+rs300774-A,5 x 10-8,,0.18,1.22,-,[NR],"LOC105373324, FAM110C",Suicide attempts in bipolar disorder,"attempted suicide, bipolar disorder",GCST001015
+rs10437629-?,4 x 10-6,,NR,1.34,-,[NR],KIAA1549L,Suicide attempts in bipolar disorder,"attempted suicide, bipolar disorder",GCST001015
+rs7296262-T,1 x 10-6,,0.51,1.22,-,[NR],TMEM132C,Suicide attempts in bipolar disorder,"attempted suicide, bipolar disorder",GCST001015
+rs2989476-C,3 x 10-6,,NR,1.16,-,[NR],LOC105378763,Bipolar disorder,bipolar disorder,GCST001135
+rs12618769-T,1 x 10-6,,NR,1.25,-,[NR],MGAT4A,Bipolar disorder,bipolar disorder,GCST001135
+rs7747960-A,9 x 10-6,,NR,1.23,-,[NR],SYNE1,Bipolar disorder,bipolar disorder,GCST001135
+rs4770394-A,9 x 10-6,,NR,1.59,-,[NR],LOC105370112,Bipolar disorder,bipolar disorder,GCST001135
+rs17197037-A,2 x 10-6,,NR,1.17,-,[NR],HNRNPC,Bipolar disorder,bipolar disorder,GCST001135
+rs1038094-G,9 x 10-6,,NR,1.27,-,[NR],"C15orf59, CD276",Bipolar disorder,bipolar disorder,GCST001135
+rs17746001-T,3 x 10-7,,NR,1.75,-,[NR],"LOC105377564, LOC105377563",Bipolar disorder and schizophrenia,"schizophrenia, bipolar disorder",GCST001567
+rs17746001-?,3 x 10-7,,NR,1.75,-,[NR],"LOC105377564, LOC105377563",Bipolar disorder and schizophrenia,"schizophrenia, bipolar disorder",GCST001567
+rs2524005-?,5 x 10-7,,NR,1.32,-,[NR],"HLA-K, HLA-U",Bipolar disorder and schizophrenia,"schizophrenia, bipolar disorder",GCST001567
+rs7872515-?,6 x 10-7,,NR,1.39,-,[NR],SPTLC1,Bipolar disorder and schizophrenia,"schizophrenia, bipolar disorder",GCST001567
+rs2054399-?,1 x 10-6,,NR,1.22,-,[NR],"KCNMB2-AS1, KCNMB2",Bipolar disorder and schizophrenia,"schizophrenia, bipolar disorder",GCST001567
+rs821470-A,3 x 10-6,,NR,1.25,-,[NR],NLRC5,Bipolar disorder and schizophrenia,"schizophrenia, bipolar disorder",GCST001567
+rs1484642-C,3 x 10-6,,NR,1.43,-,[NR],MSRA,Bipolar disorder and schizophrenia,"schizophrenia, bipolar disorder",GCST001567
+rs181500-T,5 x 10-6,,NR,1.24,-,[NR],"PDZD8, LOC105378502",Bipolar disorder and schizophrenia,"schizophrenia, bipolar disorder",GCST001567
+rs4262150-?,7 x 10-6,,NR,1.22,-,[NR],LINC01470,Bipolar disorder and schizophrenia,"schizophrenia, bipolar disorder",GCST001567
+rs253959-T,8 x 10-6,,NR,1.21,-,[NR],COMMD10,Bipolar disorder and schizophrenia,"schizophrenia, bipolar disorder",GCST001567
+rs2058710-A,9 x 10-6,,NR,1.24,-,[NR],GPR1-AS,Bipolar disorder and schizophrenia,"schizophrenia, bipolar disorder",GCST001567
+rs886424-?,9 x 10-7,,NR,1.37,-,[NR],LINC00243,Bipolar disorder and schizophrenia,"schizophrenia, bipolar disorder",GCST001567
+rs3117099-?,3 x 10-6,,NR,1.25,-,[NR],LOC101929163,Bipolar disorder and schizophrenia,"schizophrenia, bipolar disorder",GCST001567
+rs2709736-G,5 x 10-7,,NR,1.44,-,[1.25-1.66],"SP8, RPL23P8",Bipolar I disorder,bipolar disorder,GCST000654
+rs8040009-C,6 x 10-6,,0.11,1.4,-,[1.21-1.61],C15orf32,Bipolar I disorder,bipolar disorder,GCST000654
+rs6703335-?,4 x 10-9,,0.562,-,-,-,SDCCAG8,"Schizophrenia, schizoaffective disorder or bipolar disorder","bipolar disorder, schizophrenia, schizoaffective disorder",GCST002254
+rs2710323-?,3 x 10-8,,0.466,-,-,-,ITIH1,"Schizophrenia, schizoaffective disorder or bipolar disorder","bipolar disorder, schizophrenia, schizoaffective disorder",GCST002254
+rs17693963-?,2 x 10-9,,0.904,-,-,-,"TRV-AAC1-5, GPR89P","Schizophrenia, schizoaffective disorder or bipolar disorder","bipolar disorder, schizophrenia, schizoaffective disorder",GCST002254
+rs4721295-?,6 x 10-10,,0.378,-,-,-,MAD1L1,"Schizophrenia, schizoaffective disorder or bipolar disorder","bipolar disorder, schizophrenia, schizoaffective disorder",GCST002254
+rs6558872-?,5 x 10-8,,0.571,-,-,-,CSMD1,"Schizophrenia, schizoaffective disorder or bipolar disorder","bipolar disorder, schizophrenia, schizoaffective disorder",GCST002254
+rs58502974-A,2 x 10-8,,0.44,1.13,-,[NR],ADCY2,Bipolar disorder (age of onset <21) or attention deficit hyperactivity disorder,"attention deficit hyperactivity disorder, bipolar disorder",GCST004002
+rs1334489-?,7 x 10-6,,-,-,-,-,"LOC644303, SLC35F1",Bipolar disorder (age of onset <21) or attention deficit hyperactivity disorder,"attention deficit hyperactivity disorder, bipolar disorder",GCST004002
+rs2134095-?,7 x 10-6,,-,-,-,-,RXRG,Bipolar disorder (age of onset <21) or attention deficit hyperactivity disorder,"attention deficit hyperactivity disorder, bipolar disorder",GCST004002
+rs16998572-?,8 x 10-6,,-,-,-,-,"BCAS1, SUMO1P1",Bipolar disorder (age of onset <21) or attention deficit hyperactivity disorder,"attention deficit hyperactivity disorder, bipolar disorder",GCST004002
+rs28456-G,6 x 10-9,(Japanese),NR,1.18,-,[1.11-1.24],FADS2,Bipolar disorder,bipolar disorder,GCST004139
+rs10875914-G,6 x 10-8,,NR,1.11,-,[1.07-1.15],KMT2D,Bipolar disorder,bipolar disorder,GCST004139
+rs11162556-?,2 x 10-6,,NR,-,-,-,"ADGRL4, LOC652549",Bipolar disorder (age of onset <21) or attention deficit hyperactivity disorder,"attention deficit hyperactivity disorder, bipolar disorder",GCST004002
+rs12761122-?,4 x 10-6,,NR,-,-,-,"TRUB1, LOC102724589",Bipolar disorder (age of onset <21) or attention deficit hyperactivity disorder,"attention deficit hyperactivity disorder, bipolar disorder",GCST004002
+rs7089973-C,2 x 10-8,,0.74,1.1111112,-,[NR],"TAF9BP2, ABLIM1",Bipolar disorder or attention deficit hyperactivity disorder,"attention deficit hyperactivity disorder, bipolar disorder",GCST004001
+rs11756438-A,4 x 10-8,,0.34,1.1,-,[NR],CEP85L,Bipolar disorder or attention deficit hyperactivity disorder,"bipolar disorder, attention deficit hyperactivity disorder",GCST004001
+rs34096808-?,1 x 10-7,,NR,-,-,-,NLGN1,Bipolar disorder or attention deficit hyperactivity disorder,"attention deficit hyperactivity disorder, bipolar disorder",GCST004001
+rs58502974-?,1 x 10-7,,NR,-,-,-,ADCY2,Bipolar disorder or attention deficit hyperactivity disorder,"attention deficit hyperactivity disorder, bipolar disorder",GCST004001
+rs10489744-?,2 x 10-7,,NR,-,-,-,RXRG,Bipolar disorder or attention deficit hyperactivity disorder,"attention deficit hyperactivity disorder, bipolar disorder",GCST004001
+rs9608816-?,6 x 10-7,,NR,-,-,-,ASCC2,Bipolar disorder or attention deficit hyperactivity disorder,"attention deficit hyperactivity disorder, bipolar disorder",GCST004001
+rs16998572-?,8 x 10-7,,NR,-,-,-,"BCAS1, SUMO1P1",Bipolar disorder or attention deficit hyperactivity disorder,"attention deficit hyperactivity disorder, bipolar disorder",GCST004001
+rs36030485-?,9 x 10-7,,NR,-,-,-,"LOC101930053, LOC105375956",Bipolar disorder or attention deficit hyperactivity disorder,"attention deficit hyperactivity disorder, bipolar disorder",GCST004001
+rs11162556-?,4 x 10-7,,NR,-,-,-,"ADGRL4, LOC652549",Bipolar disorder or attention deficit hyperactivity disorder,"attention deficit hyperactivity disorder, bipolar disorder",GCST004001
+rs56037433-?,9 x 10-7,,NR,-,-,-,SLC4A10,Bipolar disorder or attention deficit hyperactivity disorder,"attention deficit hyperactivity disorder, bipolar disorder",GCST004001
+rs71420669-?,9 x 10-7,,NR,-,-,-,LOC105376755,Bipolar disorder or attention deficit hyperactivity disorder,"attention deficit hyperactivity disorder, bipolar disorder",GCST004001
+rs13061878-?,8 x 10-7,,NR,-,-,-,PTPRG,Bipolar disorder or attention deficit hyperactivity disorder,"attention deficit hyperactivity disorder, bipolar disorder",GCST004001
+rs1334489-?,6 x 10-8,,NR,-,-,-,"LOC644303, SLC35F1",Bipolar disorder or attention deficit hyperactivity disorder,"attention deficit hyperactivity disorder, bipolar disorder",GCST004001
+rs12661338-?,5 x 10-7,,NR,-,-,-,"CEP85L, LOC105377971",Bipolar disorder or attention deficit hyperactivity disorder,"attention deficit hyperactivity disorder, bipolar disorder",GCST004001
+rs968847-?,3 x 10-7,,NR,-,-,-,"LOC102724589, LOC107984272",Bipolar disorder or attention deficit hyperactivity disorder,"attention deficit hyperactivity disorder, bipolar disorder",GCST004001
+rs12144699-A,6 x 10-7,,0.04,1.67,-,[NR],HSD52,Subjective response to lithium treatment,"bipolar disorder, response to lithium ion",GCST003158
+rs9834970-C,8 x 10-7,,0.5,1.22,-,[NR],"LOC105377030, LOC105377031",Subjective response to lithium treatment,"bipolar disorder, response to lithium ion",GCST003158
+rs12493050-G,9 x 10-7,,0.2,1.27,-,[NR],LAMP3,Subjective response to lithium treatment,"bipolar disorder, response to lithium ion",GCST003158
+rs4947962-G,1 x 10-6,,0.11,1.35,-,[NR],LOC105375284,Subjective response to lithium treatment,"bipolar disorder, response to lithium ion",GCST003158
+rs73918339-C,4 x 10-7,,0.09,1.79,-,[NR],"SLCO4A1, LOC105372712",Subjective response to lithium treatment in bipolar disorder,"bipolar disorder, response to lithium ion",GCST003160
+rs7240206-G,4 x 10-7,,0.91,1.67,-,[NR],LOC105372213,Subjective response to lithium treatment in bipolar disorder,"bipolar disorder, response to lithium ion",GCST003160
+rs116927879-G,5 x 10-7,,0.85,1.53,-,[NR],"SEPT14P7, IGFBP1",Subjective response to lithium treatment in bipolar disorder,"bipolar disorder, response to lithium ion",GCST003160
+rs78295376-C,7 x 10-7,,0.1,1.75,-,[NR],"CDKL2, C4orf26",Subjective response to lithium treatment in bipolar disorder,"bipolar disorder, response to lithium ion",GCST003160
+rs146727601-?,1 x 10-8,,0.01,3.98,-,[NR],"PLET1, RPS6P16",Objective response to lithium treatment,"bipolar disorder, response to lithium ion",GCST003159
+rs116323614-A,3 x 10-8,,0.03,3.14,-,[NR],SESTD1,Objective response to lithium treatment,"bipolar disorder, response to lithium ion",GCST003159
+rs77866734-T,1 x 10-7,,0.02,3.7,-,[NR],TCF3,Objective response to lithium treatment,"bipolar disorder, response to lithium ion",GCST003159
+rs142643109-G,4 x 10-7,,0.02,3.57,-,[NR],"RPL36AP47, USP32P4",Objective response to lithium treatment,"bipolar disorder, response to lithium ion",GCST003159
+rs438475-A,2 x 10-6,,0.12,2.04,-,[NR],NOTCH4,Objective response to lithium treatment in bipolar disorder,"bipolar disorder, response to lithium ion",GCST003161
+rs113262272-A,4 x 10-6,,0.71,1.93,-,[NR],CNTN5,Objective response to lithium treatment in bipolar disorder,"bipolar disorder, response to lithium ion",GCST003161
+rs809-T,4 x 10-6,,0.47,1.64,-,[NR],NRXN3,Objective response to lithium treatment in bipolar disorder,"bipolar disorder, response to lithium ion",GCST003161
+rs181812561-A,6 x 10-6,,0.02,7.69,-,[NR],LOC101928516,Objective response to lithium treatment in bipolar disorder,"bipolar disorder, response to lithium ion",GCST003161
+rs9834970-C,2 x 10-9,,NR,1.11554,-,[1.07634-1.15616],"LOC105377030, LOC105377031",Bipolar disorder,bipolar disorder,GCST004139
+rs9393813-A,5 x 10-7,,NR,1.09431,-,[1.05655-1.13342],ZNF204P,Bipolar disorder,bipolar disorder,GCST004139
+rs2205829-G,4 x 10-7,,NR,1.09434,-,[1.05685-1.13317],LOC107986584,Bipolar disorder,bipolar disorder,GCST004139
+rs4523096-A,7 x 10-8,,NR,1.15455,-,[1.09573-1.21652],SYNE1,Bipolar disorder,bipolar disorder,GCST004139
+rs4332037-T,2 x 10-9,,NR,1.1659197,-,[1.10894251242016-1.22582369222999],MAD1L1,Bipolar disorder,bipolar disorder,GCST004139
+rs12334475-T,3 x 10-7,,NR,1.3733491,-,[1.21714766313734-1.54959718221248],"LOC100131146, MIR4472-1",Bipolar disorder,bipolar disorder,GCST004139
+rs174576-A,1 x 10-10,,NR,1.1258574,-,[1.085854143728-1.16733516060197],FADS2,Bipolar disorder,bipolar disorder,GCST004139
+rs10896135-G,1 x 10-7,,NR,1.12427,-,[1.0763-1.17437],C11orf80,Bipolar disorder,bipolar disorder,GCST004139
+rs12576775-G,3 x 10-9,,NR,1.1829699,-,[1.11890240150022-1.25070508499166],TENM4,Bipolar disorder,bipolar disorder,GCST004139
+rs1842329-T,4 x 10-7,,NR,1.1168443,-,[1.07016653931685-1.1655568622743],"LOC105369932, MIR4303",Bipolar disorder,bipolar disorder,GCST004139
+rs4926298-G,6 x 10-10,,NR,1.1321515,-,[1.08856333588057-1.17748461027614],NFIX,Bipolar disorder,bipolar disorder,GCST004139
+rs186197500-A,7 x 10-7,(Japanese),NR,1.8491876,-,[1.45126296159233-2.35622325686603],"LOC105371630, RASAL2",Bipolar disorder,bipolar disorder,GCST004139
+rs72874541-G,2 x 10-7,(Japanese),NR,1.23368,-,[1.13997-1.33509],LOC107986043,Bipolar disorder,bipolar disorder,GCST004139
+rs115769866-A,8 x 10-7,(Japanese),NR,1.18655,-,[1.1087-1.26988],"LOC107986586, ZBED9",Bipolar disorder,bipolar disorder,GCST004139
+rs3931398-A,4 x 10-7,(Japanese),NR,1.34919,-,[1.20176-1.51471],MAD1L1,Bipolar disorder,bipolar disorder,GCST004139
+rs35425515-C,7 x 10-7,(Japanese),NR,1.5163853,-,[1.28695491024776-1.78671931532916],SLIT1,Bipolar disorder,bipolar disorder,GCST004139
+rs78089757-A,4 x 10-7,(Japanese),NR,1.406913,-,[1.23294984483326-1.6054224749514],"LOC105378542, LOC105378543",Bipolar disorder,bipolar disorder,GCST004139
+rs329674-A,1 x 10-7,(Japanese),NR,1.2155114,-,[1.13140218066456-1.30587513221986],"IGSF9B, MIR4697HG",Bipolar disorder,bipolar disorder,GCST004139
+rs185880008-T,4 x 10-7,(Japanese),NR,1.18733,-,[1.11096-1.26895],CPNE8,Bipolar disorder,bipolar disorder,GCST004139
+rs76317718-G,2 x 10-7,(Japanese),NR,1.19429,-,[1.11666-1.27731],ARHGEF15,Bipolar disorder,bipolar disorder,GCST004139
+rs61580878-A,9 x 10-7,(Japanese),NR,1.19373,-,[1.11231-1.2811],LOC105373010,Bipolar disorder,bipolar disorder,GCST004139
+rs56361249-?,3 x 10-10,,NR,1.12,-,-,LMAN2L,Bipolar disorder,bipolar disorder,GCST003962
+rs9834970-?,2 x 10-10,,NR,1.11,-,-,"LOC105377030, LOC105377031",Bipolar disorder,bipolar disorder,GCST003962
+rs2302417-?,3 x 10-9,,NR,1.11,-,-,ITIH1,Bipolar disorder,bipolar disorder,GCST003962
+rs1203233-?,4 x 10-8,,NR,1.1,-,-,SYNE1,Bipolar disorder,bipolar disorder,GCST003962
+rs10994299-?,1 x 10-9,,NR,1.23,-,-,ANK3,Bipolar disorder,bipolar disorder,GCST003962
+rs10884920-?,3 x 10-8,,NR,1.12,-,-,ADD3,Bipolar disorder,bipolar disorder,GCST003962
+rs4765913-?,3 x 10-9,,NR,1.13,-,-,CACNA1C,Bipolar disorder,bipolar disorder,GCST003962
+rs10459221-?,2 x 10-8,,NR,1.1,-,-,"RHEBL1, DHH",Bipolar disorder,bipolar disorder,GCST003962
+rs146330533-?,3 x 10-7,(African),NR,-,-,-,ARHGEF10L,Initial pursuit acceleration in psychotic disorders,"bipolar disorder, initial pursuit acceleration, schizoaffective disorder, schizophrenia",GCST005026
+rs13001243-?,2 x 10-7,(African),NR,-,-,-,"LOC105373933, RPS20P12",Initial pursuit acceleration in psychotic disorders,"initial pursuit acceleration, bipolar disorder, schizoaffective disorder, schizophrenia",GCST005026
+rs4800149-?,7 x 10-8,(African),NR,-,-,-,CABLES1,Initial pursuit acceleration in psychotic disorders,"bipolar disorder, initial pursuit acceleration, schizoaffective disorder, schizophrenia",GCST005026
+rs34486957-?,4 x 10-7,(African),NR,-,-,-,"CCDC175, RTN1",Initial pursuit acceleration in psychotic disorders,"bipolar disorder, initial pursuit acceleration, schizoaffective disorder, schizophrenia",GCST005026
+rs142754383-?,8 x 10-12,(African),NR,-,-,-,IPO8,Initial pursuit acceleration in psychotic disorders,"bipolar disorder, initial pursuit acceleration, schizoaffective disorder, schizophrenia",GCST005026
+rs75062117-?,5 x 10-7,(African),NR,-,-,-,"LOC105369895, LINC00615",Initial pursuit acceleration in psychotic disorders,"bipolar disorder, initial pursuit acceleration, schizoaffective disorder, schizophrenia",GCST005026
+rs76082815-?,6 x 10-9,(African),NR,-,-,-,LMO7,Initial pursuit acceleration in psychotic disorders,"bipolar disorder, initial pursuit acceleration, schizoaffective disorder, schizophrenia",GCST005026
+rs115777110-?,2 x 10-8,(African),NR,-,-,-,LOC107985255,Initial pursuit acceleration in psychotic disorders,"bipolar disorder, initial pursuit acceleration, schizoaffective disorder, schizophrenia",GCST005026
+rs62482377-?,3 x 10-7,(African),NR,-,-,-,"LOC105375600, LOC105375599",Initial pursuit acceleration in psychotic disorders,"bipolar disorder, initial pursuit acceleration, schizoaffective disorder, schizophrenia",GCST005026
+rs57646126-?,8 x 10-8,(African),NR,-,-,-,LTN1,Initial pursuit acceleration in psychotic disorders,"bipolar disorder, initial pursuit acceleration, schizoaffective disorder, schizophrenia",GCST005026
+rs77867520-?,2 x 10-7,(African),NR,-,-,-,"LOC102723525, LOC105374488",Initial pursuit acceleration in psychotic disorders,"bipolar disorder, initial pursuit acceleration, schizoaffective disorder, schizophrenia",GCST005026
+rs105633-?,8 x 10-12,(African),NR,-,-,-,PCDH12,Initial pursuit acceleration in psychotic disorders,"bipolar disorder, initial pursuit acceleration, schizoaffective disorder, schizophrenia",GCST005026
+rs2299682-?,9 x 10-8,(African),NR,-,-,-,PLCB4,Initial pursuit acceleration in psychotic disorders,"bipolar disorder, initial pursuit acceleration, schizoaffective disorder, schizophrenia",GCST005026
+rs74417947-?,2 x 10-8,(African),NR,-,-,-,RPN2,Initial pursuit acceleration in psychotic disorders,"bipolar disorder, initial pursuit acceleration, schizoaffective disorder, schizophrenia",GCST005026
+rs138449918-?,1 x 10-7,(African),NR,-,-,-,SLC8A1-AS1,Initial pursuit acceleration in psychotic disorders,"bipolar disorder, initial pursuit acceleration, schizoaffective disorder, schizophrenia",GCST005026
+rs137928907-?,2 x 10-8,(African),NR,-,-,-,STX2,Initial pursuit acceleration in psychotic disorders,"bipolar disorder, initial pursuit acceleration, schizoaffective disorder, schizophrenia",GCST005026
+rs74796725-?,2 x 10-8,(African),NR,-,-,-,ZNF740,Initial pursuit acceleration in psychotic disorders,"bipolar disorder, initial pursuit acceleration, schizoaffective disorder, schizophrenia",GCST005026
+rs2997119-?,3 x 10-7,(EA),NR,-,-,-,"HNF4GP1, MIR5007",Initial pursuit acceleration in psychotic disorders,"bipolar disorder, initial pursuit acceleration, schizoaffective disorder, schizophrenia",GCST005026
+rs142754383-?,9 x 10-13,,NR,-,-,-,IPO8,Initial pursuit acceleration in psychotic disorders,"bipolar disorder, initial pursuit acceleration, schizoaffective disorder, schizophrenia",GCST005026
+rs76082815-?,4 x 10-8,,NR,-,-,-,LMO7,Initial pursuit acceleration in psychotic disorders,"bipolar disorder, initial pursuit acceleration, schizoaffective disorder, schizophrenia",GCST005026
+rs9354352-?,2 x 10-7,,NR,-,-,-,"LOC105377838, ADH5P4",Initial pursuit acceleration in psychotic disorders,"bipolar disorder, initial pursuit acceleration, schizoaffective disorder, schizophrenia",GCST005026
+rs7766730-?,4 x 10-7,,NR,-,-,-,"ADH5P4, LOC105377838",Initial pursuit acceleration in psychotic disorders,"bipolar disorder, initial pursuit acceleration, schizoaffective disorder, schizophrenia",GCST005026
+rs188839109-?,2 x 10-8,(African),NR,-,-,-,"TSPAN32, C11orf21",Pursuit maintenance gain in psychotic disorders,"bipolar disorder, pursuit maintenance gain measurement, schizoaffective disorder, schizophrenia",GCST005028
+rs12052005-?,3 x 10-7,(African),NR,-,-,-,CCDC102B,Pursuit maintenance gain in psychotic disorders,"bipolar disorder, pursuit maintenance gain measurement, schizoaffective disorder, schizophrenia",GCST005028
+rs506597-?,1 x 10-7,(African),NR,-,-,-,"EPO, POP7",Pursuit maintenance gain in psychotic disorders,"bipolar disorder, pursuit maintenance gain measurement, schizoaffective disorder, schizophrenia",GCST005028
+rs221798-?,1 x 10-8,(African),NR,-,-,-,GIGYF1,Pursuit maintenance gain in psychotic disorders,"bipolar disorder, pursuit maintenance gain measurement, schizoaffective disorder, schizophrenia",GCST005028
+rs56196471-?,9 x 10-8,(African),NR,-,-,-,"RNA5SP173, LOC105377563",Pursuit maintenance gain in psychotic disorders,"bipolar disorder, pursuit maintenance gain measurement, schizoaffective disorder, schizophrenia",GCST005028
+rs2571521-?,3 x 10-7,(African),NR,-,-,-,LOC107987027,Pursuit maintenance gain in psychotic disorders,"bipolar disorder, pursuit maintenance gain measurement, schizoaffective disorder, schizophrenia",GCST005028
+rs221774-?,1 x 10-8,(African),NR,-,-,-,"POP7, GIGYF1",Pursuit maintenance gain in psychotic disorders,"bipolar disorder, pursuit maintenance gain measurement, schizoaffective disorder, schizophrenia",GCST005028
+rs7939917-?,4 x 10-7,(African),NR,-,-,-,TMPRSS5,Pursuit maintenance gain in psychotic disorders,"bipolar disorder, pursuit maintenance gain measurement, schizoaffective disorder, schizophrenia",GCST005028
+rs61945387-?,2 x 10-7,(EA),NR,-,-,-,KSR2,Pursuit maintenance gain in psychotic disorders,"bipolar disorder, pursuit maintenance gain measurement, schizoaffective disorder, schizophrenia",GCST005028
+rs6738485-?,3 x 10-7,,NR,-,-,-,UXS1,Pursuit maintenance gain in psychotic disorders,"bipolar disorder, pursuit maintenance gain measurement, schizoaffective disorder, schizophrenia",GCST005028
+rs56031956-?,4 x 10-7,,NR,-,-,-,ACTL7A,Pursuit maintenance gain in psychotic disorders,"bipolar disorder, pursuit maintenance gain measurement, schizoaffective disorder, schizophrenia",GCST005028
+rs679895-?,2 x 10-7,(African),NR,-,-,-,LOC105374699,Anti-saccade error rate in psychotic disorders,"antisaccade response measurement, bipolar disorder, schizoaffective disorder, schizophrenia",GCST005027
+rs11125080-?,2 x 10-7,(African),NR,-,-,-,"TMEM247, ATP6V1E2",Anti-saccade error rate in psychotic disorders,"antisaccade response measurement, bipolar disorder, schizoaffective disorder, schizophrenia",GCST005027
+rs201048567-?,2 x 10-7,(African),NR,-,-,-,"LOC100506664, LOC105375487",Anti-saccade error rate in psychotic disorders,"antisaccade response measurement, bipolar disorder, schizoaffective disorder, schizophrenia",GCST005027
+rs10994336-T,9 x 10-9,,0.05,1.45,-,[NR],ANK3,Bipolar disorder,bipolar disorder,GCST000220
+rs12899449-?,4 x 10-7,,0.72,1.2,-,[NR],"LOC105370776, C15orf53",Bipolar disorder,bipolar disorder,GCST000220
+rs2314398-?,3 x 10-6,,0.69,1.17,-,[NR],"LMAN2L, CNNM4",Bipolar disorder,bipolar disorder,GCST000220
+rs4130590-?,3 x 10-6,,0.56,1.16,-,[NR],GARNL3,Bipolar disorder,bipolar disorder,GCST000220
+rs12290811-A,4 x 10-6,,0.15,1.2,-,[NR],TENM4,Bipolar disorder,bipolar disorder,GCST000220
+rs17082664-G,4 x 10-6,,0.13,1.22,-,[NR],SYNE1,Bipolar disorder,bipolar disorder,GCST000220
+rs16966460-G,4 x 10-6,,0.1,1.26,-,[NR],"LOC107984773, LOC107984760",Bipolar disorder,bipolar disorder,GCST000220
+rs4380451-?,4 x 10-6,,0.73,1.18,-,[NR],CMTM8,Bipolar disorder,bipolar disorder,GCST000220
+rs216345-T,4 x 10-6,,0.37,1.15,-,[NR],"UBE2R2, PRSS3",Bipolar disorder,bipolar disorder,GCST000220
+rs3821396-A,5 x 10-6,,0.11,1.23,-,[NR],ZNF385D,Bipolar disorder,bipolar disorder,GCST000220
+rs8015959-T,5 x 10-6,,0.02,1.59,-,[NR],NPAS3,Bipolar disorder,bipolar disorder,GCST000220
+rs12436436-C,5 x 10-6,,0.08,1.3,-,[NR],LOC102724845,Bipolar disorder,bipolar disorder,GCST000220
+rs11720452-?,5 x 10-6,,0.58,1.15,-,[NR],LOC105376988,Bipolar disorder,bipolar disorder,GCST000220
+rs1948368-?,6 x 10-6,,0.51,1.15,-,[NR],"LOC105378872, LINC01307",Bipolar disorder,bipolar disorder,GCST000220
+rs7042161-?,6 x 10-6,,0.65,1.15,-,[NR],SVEP1,Bipolar disorder,bipolar disorder,GCST000220
+rs544368-T,6 x 10-6,,0.12,1.22,-,[NR],SIAE,Bipolar disorder,bipolar disorder,GCST000220
+rs2278702-?,6 x 10-6,,0.83,1.21,-,[NR],"LOC101929560, ARNT2",Bipolar disorder,bipolar disorder,GCST000220
+rs7226677-G,7 x 10-6,,0.12,1.24,-,[NR],"COLEC12, THOC1",Bipolar disorder,bipolar disorder,GCST000220
+rs1601875-?,7 x 10-6,,0.5,1.14,-,[NR],LOC100130207,Bipolar disorder,bipolar disorder,GCST000220
+rs703965-?,8 x 10-6,,0.54,1.15,-,[NR],ZMIZ1,Bipolar disorder,bipolar disorder,GCST000220
+rs1006737-A,7 x 10-8,,0.32,1.18,-,[NR],CACNA1C,Bipolar disorder,bipolar disorder,GCST000220
+rs10994415-C,7 x 10-11,,NR,1.27,-,[NR],ANK3,Bipolar disorder,bipolar disorder,GCST002385
+rs12290811-A,1 x 10-9,,NR,1.19,-,[NR],TENM4,Bipolar disorder,bipolar disorder,GCST002385
+rs17826816-G,1 x 10-8,,NR,1.14,-,[NR],ADCY2,Bipolar disorder,bipolar disorder,GCST002385
+rs12202969-A,1 x 10-8,,NR,1.12,-,[NR],"MIR2113, EIF4EBP2P3",Bipolar disorder,bipolar disorder,GCST002385
+rs6550435-G,2 x 10-8,,NR,1.13,-,[NR],"TRANK1, LOC105377031",Bipolar disorder,bipolar disorder,GCST002385
+rs7219021-?,1 x 10-7,(SCZ vs. BP),-,-,-,-,TTLL6,Schizophrenia or bipolar disorder,"bipolar disorder, schizophrenia",GCST002295
+rs1064395-A,2 x 10-9,,0.16,1.17,-,[NR],NCAN,Bipolar disorder,bipolar disorder,GCST000985
+rs4681346-?,3 x 10-6,(MCS),NR,-,-,-,"RNU6-505P, LOC107986139","Functional impairment in major depressive disorder, bipolar disorder and schizophrenia","bipolar disorder, schizophrenia, unipolar depression, functional impairment measurement",GCST002188
+rs7535475-?,3 x 10-6,(MCS),NR,-,-,-,LOC105371473,"Functional impairment in major depressive disorder, bipolar disorder and schizophrenia","bipolar disorder, schizophrenia, unipolar depression, functional impairment measurement",GCST002188
+rs2736871-?,3 x 10-6,(MCS),NR,-,-,-,ST3GAL1,"Functional impairment in major depressive disorder, bipolar disorder and schizophrenia","bipolar disorder, schizophrenia, unipolar depression, functional impairment measurement",GCST002188
+rs16875288-?,6 x 10-8,(PCS),NR,-,-,-,"LOC101929200, ADAMTS16","Functional impairment in major depressive disorder, bipolar disorder and schizophrenia","bipolar disorder, schizophrenia, unipolar depression, functional impairment measurement",GCST002188
+rs7221595-?,5 x 10-6,(PCS),NR,-,-,-,ZZEF1,"Functional impairment in major depressive disorder, bipolar disorder and schizophrenia","bipolar disorder, schizophrenia, unipolar depression, functional impairment measurement",GCST002188
+rs2011503-?,9 x 10-8,,NR,1.15,-,[NR],MAU2,Bipolar disorder,bipolar disorder,GCST002385
+rs17173608-G,2 x 10-7,,0.058,1.93,-,[1.69-2.19],RARRES2,Suicide attempts in depression or bipolar disorder,"bipolar disorder, unipolar depression, attempted suicide",GCST002503
+rs17387100-G,8 x 10-7,,0.078,1.76,-,[1.54-1.99],PROM1,Suicide attempts in depression or bipolar disorder,"bipolar disorder, unipolar depression, attempted suicide",GCST002503
+rs3781878-?,2 x 10-6,,0.728,1.54,-,[1.2-2.08],NCAM1,Suicide attempts in depression or bipolar disorder,"bipolar disorder, unipolar depression, attempted suicide",GCST002503
+rs1006737-?,6 x 10-13,(SCZ or BP vs. controls),-,-,-,-,CACNA1C,Schizophrenia or bipolar disorder,"bipolar disorder, schizophrenia",GCST002295
+rs17693963-?,3 x 10-11,(SCZ or BP vs. controls),-,-,-,-,"TRV-AAC1-5, GPR89P",Schizophrenia or bipolar disorder,"bipolar disorder, schizophrenia",GCST002295
+rs9834970-?,1 x 10-10,(SCZ or BP vs. controls),-,-,-,-,"LOC105377030, LOC105377031",Schizophrenia or bipolar disorder,"bipolar disorder, schizophrenia",GCST002295
+rs10275045-?,2 x 10-9,(SCZ or BP vs. controls),-,-,-,-,MAD1L1,Schizophrenia or bipolar disorder,"bipolar disorder, schizophrenia",GCST002295
+rs4356203-?,6 x 10-9,(SCZ or BP vs. controls),-,-,-,-,PIK3C2A,Schizophrenia or bipolar disorder,"schizophrenia, bipolar disorder",GCST002295
+rs4650608-?,8 x 10-9,(SCZ or BP vs. controls),-,-,-,-,"LOC652549, ADGRL4",Schizophrenia or bipolar disorder,"bipolar disorder, schizophrenia",GCST002295
+rs17158930-G,3 x 10-7,,0.193,-,0.3082 unit decrease,[NR],DOCK4,Pharmacokinetics of antidepressant drugs in severe mental disorder (concentration dose ratio),"bipolar disorder, concentration dose ratio, response to antidepressant, schizophrenia, unipolar depression",GCST002891
+rs1395241-?,8 x 10-6,,NR,-,-,-,FAT4,Bipolar disorder or major depressive disorder,"unipolar depression, bipolar disorder",GCST000641
+rs12912251-?,1 x 10-6,,NR,-,-,-,"LOC105370775, C15orf53",Bipolar disorder or major depressive disorder,"unipolar depression, bipolar disorder",GCST000641
+rs11773103-?,1 x 10-6,,NR,-,-,-,DMTF1,Bipolar disorder or major depressive disorder,"unipolar depression, bipolar disorder",GCST000641
+rs1006737-?,3 x 10-8,,NR,-,-,-,CACNA1C,Bipolar disorder or major depressive disorder,"bipolar disorder, unipolar depression",GCST000641
+rs17082664-?,1 x 10-6,,NR,-,-,-,SYNE1,Bipolar disorder or major depressive disorder,"unipolar depression, bipolar disorder",GCST000641
+rs1262778-?,8 x 10-6,,NR,-,-,-,DLEU1,Bipolar disorder or major depressive disorder,"unipolar depression, bipolar disorder",GCST000641
+rs10994338-?,5 x 10-7,,NR,-,-,-,ANK3,Bipolar disorder or major depressive disorder,"unipolar depression, bipolar disorder",GCST000641
+rs7226677-?,4 x 10-6,,NR,-,-,-,"COLEC12, THOC1",Bipolar disorder or major depressive disorder,"unipolar depression, bipolar disorder",GCST000641
+rs4972755-?,3 x 10-6,,NR,-,-,-,"RPS15AP14, LOC105373752",Bipolar disorder or major depressive disorder,"unipolar depression, bipolar disorder",GCST000641
+rs16935279-C,5 x 10-10,,0.014,-,0.7918 unit decrease,[NR],LOC100505718,Pharmacokinetics of antiepileptic drugs in severe mental disorder (concentration drug ratio),"bipolar disorder, concentration dose ratio, response to anticonvulsant, schizophrenia, unipolar depression",GCST002887
+rs11829119-C,1 x 10-7,,0.063,-,0.4991 unit decrease,[NR],LOC107984527,Pharmacokinetics of antiepileptic drugs in severe mental disorder (concentration drug ratio),"bipolar disorder, concentration dose ratio, response to anticonvulsant, schizophrenia, unipolar depression",GCST002887
+rs17066873-C,2 x 10-7,,0.039,-,0.9277 unit decrease,[NR],"BTF3P11, KCTD12",Pharmacokinetics of antiepileptic drugs in severe mental disorder (concentration drug ratio),"bipolar disorder, concentration dose ratio, response to anticonvulsant, schizophrenia, unipolar depression",GCST002887
+rs17790731-A,2 x 10-7,,0.034,-,0.531 unit decrease,[NR],RFESD,Pharmacokinetics of antiepileptic drugs in severe mental disorder (concentration drug ratio),"bipolar disorder, concentration dose ratio, response to anticonvulsant, schizophrenia, unipolar depression",GCST002887
+rs6586354-A,1 x 10-7,,0.226,-,0.2802 unit decrease,[NR],"RN7SL668P, LOC107985365",Pharmacokinetics of antipsychotic drugs in severe mental disorder (concentration drug ratio),"bipolar disorder, concentration dose ratio, response to antipsychotic drug, schizophrenia, unipolar depression",GCST002888
+rs17154917-T,3 x 10-7,,0.022,-,0.6656 unit decrease,[NR],"EIF4EP4, LOC100420647",Pharmacokinetics of antipsychotic drugs in severe mental disorder (concentration drug ratio),"bipolar disorder, concentration dose ratio, response to antipsychotic drug, schizophrenia, unipolar depression",GCST002888
+rs2302045-T,4 x 10-7,,0.067,-,0.4064 unit decrease,[NR],"SNED1, MTERF4",Pharmacokinetics of antipsychotic drugs in severe mental disorder (concentration drug ratio),"bipolar disorder, concentration dose ratio, response to antipsychotic drug, schizophrenia, unipolar depression",GCST002888
+rs9862857-C,6 x 10-8,,NR,-,0.7386 unit decrease,[NR],"LOC101927995, LOC105377013",Pharmacokinetics of olanzapine in severe mental disorder (concentration dose ratio),"bipolar disorder, concentration dose ratio, response to olanzapine, schizophrenia, unipolar depression",GCST002885
+rs17673138-C,6 x 10-8,,NR,-,0.4143 unit decrease,[NR],"RNU6-663P, NRG1",Pharmacokinetics of olanzapine in severe mental disorder (concentration dose ratio),"bipolar disorder, concentration dose ratio, response to olanzapine, schizophrenia, unipolar depression",GCST002885
+rs10968749-G,2 x 10-7,,NR,-,0.8345 unit decrease,[NR],LINGO2,Pharmacokinetics of olanzapine in severe mental disorder (concentration dose ratio),"bipolar disorder, concentration dose ratio, response to olanzapine, schizophrenia, unipolar depression",GCST002885
+rs10405744-A,2 x 10-7,,NR,-,0.5736 unit decrease,[NR],BNIP3P12,Pharmacokinetics of olanzapine in severe mental disorder (concentration dose ratio),"bipolar disorder, concentration dose ratio, response to olanzapine, schizophrenia, unipolar depression",GCST002885
+rs10748045-G,1 x 10-6,,0.354,1.78,-,[1.41-2.25],GRIP1,Suicidal ideation in depression or bipolar disorder,"bipolar disorder, unipolar depression, suicidal ideation",GCST002505
+rs9834970-T,5 x 10-10,,0.5,1.14,-,[1.09-1.18],"LOC105377030, LOC105377031",Bipolar disorder,bipolar disorder,GCST003724
+rs1487441-G,3 x 10-8,,0.51,1.12,-,[1.08-1.15],"EIF4EBP2P3, MIR2113",Bipolar disorder,bipolar disorder,GCST003724
+rs4236274-G,8 x 10-12,,0.39,1.15,-,[1.10-1.20],MAD1L1,Bipolar disorder,bipolar disorder,GCST003724
+rs12553324-C,6 x 10-9,,0.59,1.12,-,[1.07-1.16],"LOC107987055, LOC105369298",Bipolar disorder,bipolar disorder,GCST003724
+rs1054442-A,1 x 10-8,,0.62,1.13,-,[1.09-1.17],DDN,Bipolar disorder,bipolar disorder,GCST003724
+rs2517959-T,5 x 10-9,,0.67,1.13,-,[1.09-1.17],ERBB2,Bipolar disorder,bipolar disorder,GCST003724
+rs9662615-T,5 x 10-7,"(EA, continuous)",0.44,-,0.45 unit increase,[0.27-0.62],CSMD2,Response to lithium treatment in bipolar disorder,"bipolar disorder, response to lithium ion",GCST003378
+rs61549860-T,5 x 10-7,"(EA, continuous)",0.22,-,0.59 unit increase,[0.36-0.83],HDAC9,Response to lithium treatment in bipolar disorder,"bipolar disorder, response to lithium ion",GCST003378
+rs78015114-T,1 x 10-8,"(EA, continuous)",0.94,-,1.1 unit increase,[0.72-1.48],"LOC107985490, PPIAP22",Response to lithium treatment in bipolar disorder,"bipolar disorder, response to lithium ion",GCST003378
+rs28625169-T,9 x 10-7,"(EA, dichotomous)",0.37,1.43,-,[1.24-1.65],TENM3,Response to lithium treatment in bipolar disorder,"bipolar disorder, response to lithium ion",GCST003378
+rs9396756-C,3 x 10-7,"(EA, dichotomous)",0.15,1.64,-,[1.36-1.97],"STMND1, RBM24",Response to lithium treatment in bipolar disorder,"bipolar disorder, response to lithium ion",GCST003378
+rs12669727-T,4 x 10-7,"(EA, dichotomous)",0.22,1.51,-,[1.29-1.77],LHFPL3,Response to lithium treatment in bipolar disorder,"bipolar disorder, response to lithium ion",GCST003378
+chr14:27602830-?,8 x 10-7,(dichotomous),0.36,1.41,-,[1.23-1.62],-,Response to lithium treatment in bipolar disorder,"bipolar disorder, response to lithium ion",GCST003378
+rs74795342-G,3 x 10-9,(continuous),0.94,-,1.1 unit increase,[0.74-1.47],"PPIAP22, LOC107985490",Response to lithium treatment in bipolar disorder,"bipolar disorder, response to lithium ion",GCST003378
+rs74795342-G,3 x 10-9,"(EA, continuous)",0.94,-,1.16 unit increase,[0.78-1.54],"PPIAP22, LOC107985490",Response to lithium treatment in bipolar disorder,"bipolar disorder, response to lithium ion",GCST003378
+rs7833426-A,2 x 10-7,"(East Asian, continuous)",0.92,-,3.66 unit increase,[2.37-4.94],"LOC105379318, OR6R2P",Response to lithium treatment in bipolar disorder,"bipolar disorder, response to lithium ion",GCST003378
+rs6728642-A,5 x 10-8,,-,-,-,-,FAM178B,Bipolar disorder lithium response (continuous) or schizophrenia,"bipolar disorder, response to lithium ion, schizophrenia",GCST005081
+rs62200793-T,1 x 10-8,,-,-,-,-,ZNF804A,Bipolar disorder lithium response (continuous) or schizophrenia,"bipolar disorder, response to lithium ion, schizophrenia",GCST005081
+rs7588746-A,4 x 10-8,,-,-,-,-,"LOC105373833, SPATS2L",Bipolar disorder lithium response (continuous) or schizophrenia,"bipolar disorder, response to lithium ion, schizophrenia",GCST005081
+rs3919583-A,5 x 10-9,,-,-,-,-,"LOC105379069, LOC105379066",Bipolar disorder lithium response (continuous) or schizophrenia,"bipolar disorder, response to lithium ion, schizophrenia",GCST005081
+rs144373461-A,1 x 10-17,,-,-,-,-,"3.8-1.5, HCG4",Bipolar disorder lithium response (continuous) or schizophrenia,"bipolar disorder, response to lithium ion, schizophrenia",GCST005081
+rs209474-A,2 x 10-8,,-,-,-,-,"HLA-DMA, BRD2",Bipolar disorder lithium response (continuous) or schizophrenia,"bipolar disorder, response to lithium ion, schizophrenia",GCST005081
+rs1521470-A,3 x 10-8,,-,-,-,-,ADCY1,Bipolar disorder lithium response (continuous) or schizophrenia,"bipolar disorder, response to lithium ion, schizophrenia",GCST005081
+rs79403677-T,2 x 10-8,,-,-,-,-,FAM177A1,Bipolar disorder lithium response (continuous) or schizophrenia,"bipolar disorder, response to lithium ion, schizophrenia",GCST005081
+rs324899-A,2 x 10-8,,-,-,-,-,LINC00461,Bipolar disorder lithium response (categorical) or schizophrenia,"bipolar disorder, response to lithium ion, schizophrenia",GCST005082
+rs6942227-A,3 x 10-8,,-,-,-,-,"LOC107986530, LOC100132239",Bipolar disorder lithium response (categorical) or schizophrenia,"bipolar disorder, response to lithium ion, schizophrenia",GCST005082
+rs142425863-T,5 x 10-11,,-,-,-,-,"3.8-1.5, HCG4",Bipolar disorder lithium response (categorical) or schizophrenia,"bipolar disorder, response to lithium ion, schizophrenia",GCST005082
+rs59724122-T,5 x 10-9,,-,-,-,-,EPHX2,Bipolar disorder lithium response (categorical) or schizophrenia,"bipolar disorder, response to lithium ion, schizophrenia",GCST005082
+rs61123830-A,5 x 10-8,,-,-,-,-,GRAMD1B,Bipolar disorder lithium response (categorical) or schizophrenia,"bipolar disorder, response to lithium ion, schizophrenia",GCST005082
+rs7959663-C,3 x 10-8,,-,-,-,-,MYO1H,Bipolar disorder lithium response (categorical) or schizophrenia,"bipolar disorder, response to lithium ion, schizophrenia",GCST005082
+rs66486766-A,1 x 10-11,,-,-,-,-,"DNM1P41, EFTUD1P1",Bipolar disorder lithium response (categorical) or schizophrenia,"bipolar disorder, response to lithium ion, schizophrenia",GCST005082
+rs7405404-T,5 x 10-11,,-,-,-,-,"LOC105371093, SHISA9",Bipolar disorder lithium response (categorical) or schizophrenia,"bipolar disorder, response to lithium ion, schizophrenia",GCST005082
+rs4765913-A,2 x 10-8,,NR,1.14,-,[NR],CACNA1C,Bipolar disorder,bipolar disorder,GCST001241
+rs10896135-G,2 x 10-7,,NR,1.12,-,[NR],C11orf80,Bipolar disorder,bipolar disorder,GCST001241
+rs2070615-G,1 x 10-6,,NR,1.1,-,[NR],CACNB3,Bipolar disorder,bipolar disorder,GCST001241
+rs12576775-G,4 x 10-8,,NR,1.14,-,[NR],TENM4,Bipolar disorder,bipolar disorder,GCST001241
+rs3845817-T,2 x 10-6,,NR,1.1,-,[NR],LOC105369166,Bipolar disorder,bipolar disorder,GCST001241
+rs2176528-C,4 x 10-6,,NR,1.12,-,[NR],"LOC105373815, GLULP6",Bipolar disorder,bipolar disorder,GCST001241
+rs4660531-T,3 x 10-6,,NR,1.1,-,[NR],FOXO6,Bipolar disorder,bipolar disorder,GCST001241
+rs7578035-G,3 x 10-6,,NR,1.09,-,[NR],LOC101927070,Bipolar disorder,bipolar disorder,GCST001241
+rs2287921-C,3 x 10-6,,NR,1.1,-,[NR],RASIP1,Bipolar disorder,bipolar disorder,GCST001241
+rs7827290-G,9 x 10-6,,NR,1.1,-,[NR],SLC45A4,Bipolar disorder,bipolar disorder,GCST001241
+rs12730292-C,5 x 10-6,,NR,1.1,-,[NR],"LOC652549, ADGRL4",Bipolar disorder,bipolar disorder,GCST001241
+rs6746896-A,2 x 10-6,,NR,1.1,-,[NR],"CNNM4, LMAN2L",Bipolar disorder,bipolar disorder,GCST001241
+rs736408-C,2 x 10-6,,NR,1.1,-,[NR],ITIH3,Bipolar disorder,bipolar disorder,GCST001241
+rs9371601-T,7 x 10-7,,NR,1.1,-,[NR],SYNE1,Bipolar disorder,bipolar disorder,GCST001241
+rs10994397-T,3 x 10-7,,NR,1.22,-,[NR],ANK3,Bipolar disorder,bipolar disorder,GCST001241
+rs12912251-G,3 x 10-6,,NR,1.1,-,[NR],"LOC105370775, C15orf53",Bipolar disorder,bipolar disorder,GCST001241
+rs4332037-T,7 x 10-6,,NR,1.11,-,[NR],MAD1L1,Bipolar disorder,bipolar disorder,GCST001241
+rs6550435-G,9 x 10-6,,NR,1.09,-,[NR],"TRANK1, LOC105377031",Bipolar disorder,bipolar disorder,GCST001241
+rs420259-A,6 x 10-8,,0.72,2.08,-,[1.60-2.71],PALB2,Bipolar disorder,bipolar disorder,GCST000044
+rs6458307-?,4 x 10-6,,0.69,1.19,-,[1.04-1.33],GLTSCR1L,Bipolar disorder,bipolar disorder,GCST000044
+rs683395-G,5 x 10-6,,0.08,1.47,-,[1.26-1.71],LAMP3,Bipolar disorder,bipolar disorder,GCST000044
+rs2953145-C,7 x 10-6,,0.23,1.84,-,[1.31-2.58],RNPEPL1,Bipolar disorder,bipolar disorder,GCST000044
+rs3761218-C,7 x 10-6,,0.64,1.03,-,[1.15-1.23],CDC25B,Bipolar disorder,bipolar disorder,GCST000044
+rs10134944-T,7 x 10-6,,0.09,1.45,-,[1.24-1.68],SLC35F4,Bipolar disorder,bipolar disorder,GCST000044
+rs11622475-C,8 x 10-6,,0.7,1.13,-,[0.89-1.44],TDRD9,Bipolar disorder,bipolar disorder,GCST000044
+rs159788-G,7 x 10-6,(5 degree of freedom test),NR,1.012,-,[0.97-1.05],"LOC105372510, ADRA1D","Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs7565792-C,7 x 10-6,(5 degree of freedom test),NR,1.03,-,[1.00-1.06],"FOXN2, PPP1R21","Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs11587682-C,7 x 10-6,(5 degree of freedom test),NR,1.086,-,[1.05-1.12],PRPF3,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs7597593-T,8 x 10-6,(5 degree of freedom test),NR,1.055,-,[1.03-1.08],ZNF804A,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs6435387-G,8 x 10-6,(5 degree of freedom test),NR,1.129,-,[1.06-1.19],KIF5C,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs7849973-?,8 x 10-6,(5 degree of freedom test),NR,1.05,-,[1.02-1.08],LINC01239,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs10250997-C,8 x 10-6,(5 degree of freedom test),NR,1.03,-,[0.99-1.07],"LOC100421642, LOC105375523","Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs10994397-?,7 x 10-9,,0.065,-,-,-,ANK3,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs12576775-?,4 x 10-8,(Modelling analysis),0.175,-,-,-,TENM4,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs2021722-?,2 x 10-12,(Modelling analysis),0.789,-,-,-,TRIM26,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs12966547-?,3 x 10-10,(Modelling analysis),0.588,-,-,-,LOC105372125,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs7914558-?,2 x 10-9,(Modelling analysis),0.587,-,-,-,CNNM2,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs11191580-?,1 x 10-8,(Modelling analysis),0.911,-,-,-,NT5C2,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, attention deficit hyperactivity disorder, autism spectrum disorder",GCST001877
+rs10503253-?,4 x 10-8,(Modelling analysis),0.193,-,-,-,CSMD1,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, attention deficit hyperactivity disorder, autism spectrum disorder",GCST001877
+rs17662626-?,5 x 10-8,(Modelling analysis),0.915,-,-,-,LOC107985969,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, attention deficit hyperactivity disorder, autism spectrum disorder",GCST001877
+rs548181-?,9 x 10-7,(Modelling analysis),0.884,-,-,-,LOC105369550,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, attention deficit hyperactivity disorder, autism spectrum disorder",GCST001877
+rs1533087-T,9 x 10-6,(Modelling analysis),-,1.06,-,[1.03-1.09],"LOC107985387, TCF15","Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs1107592-A,5 x 10-6,(Modelling analysis),-,1.06,-,[1.03-1.09],MAD1L1,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs6602217-T,2 x 10-6,(Modelling analysis),-,1.12,-,[1.07-1.17],LOC105376387,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs12325410-T,1 x 10-6,(Modelling analysis),-,1.09,-,[1.05-1.13],LOC101927026,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs8058295-A,7 x 10-6,(Modelling analysis),-,1.06,-,[1.04-1.09],GRIN2A,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs7254215-A,7 x 10-6,(Modelling analysis),-,1.09,-,[1.05-1.13],"CLEC17A, ADGRE3","Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs2799573-?,4 x 10-8,(Modelling analysis),0.715,1.08,-,[1.05-1.12],CACNB2,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs249954-A,2 x 10-6,(Modelling analysis),-,1.07,-,[1.04-1.10],PALB2,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs2721800-C,6 x 10-7,(Modelling analysis),-,1.08,-,[1.05-1.12],MPP6,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs6694545-A,1 x 10-6,(Modelling analysis),-,1.07,-,[1.04-1.11],"LOC107984934, LOC101929406","Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs9275524-T,2 x 10-7,(Modelling analysis),-,1.07,-,[1.04-1.09],"LOC102725019, MTCO3P1","Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs2609653-T,3 x 10-6,(Modelling analysis),-,1.13,-,[1.07-1.19],"RPL10AP3, LINC01288","Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs13072940-A,9 x 10-6,(Modelling analysis),-,1.06,-,[1.03-1.08],"LOC105377030, LOC105377031","Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs9951150-A,6 x 10-7,(Modelling analysis),-,1.06,-,[1.04-1.09],"TCF4, RNA5SP459","Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs11152369-A,2 x 10-7,(Modelling analysis),NR,1.19,-,[1.12-1.28],TCF4,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs6765687-T,5 x 10-6,(Modelling analysis),-,1.07,-,[1.04-1.11],GLT8D1,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs2535629-?,3 x 10-12,,0.651,1.1,-,[1.07-1.12],ITIH3,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs10873998-T,4 x 10-6,(Modelling analysis),-,1.06,-,[1.03-1.09],"LOC652549, ADGRL4","Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs1104918-T,6 x 10-6,(Modelling analysis),-,1.07,-,[1.04-1.10],NTRK3,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs12443954-A,1 x 10-6,(Modelling analysis),-,1.08,-,[1.04-1.11],"SPATA33, LOC105371416","Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs10860392-T,2 x 10-6,(Modelling analysis),-,1.06,-,[1.04-1.09],"LOC101928937, ANKS1B","Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, attention deficit hyperactivity disorder, autism spectrum disorder",GCST001877
+rs1625579-?,2 x 10-11,(Modelling analysis),0.801,-,-,-,MIR137HG,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs2310173-T,3 x 10-6,(Modelling analysis),-,1.06,-,[1.03-1.08],"LOC107985926, IL1R1","Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs7700191-A,4 x 10-6,(Modelling analysis),-,1.12,-,[1.06-1.17],"LOC105377346, LOC107986297","Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs11191454-?,1 x 10-8,,0.91,1.13,-,[1.08-1.18],"LOC107984265, AS3MT, C10orf32-ASMT","Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs7069733-C,7 x 10-6,(Modelling analysis),-,1.08,-,[1.04-1.12],NEURL1,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs9297357-T,4 x 10-7,(Modelling analysis),NR,1.07,-,[1.04-1.10],LOC105375695,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs2186903-A,4 x 10-6,(Modelling analysis),-,1.07,-,[1.04-1.11],"SLC35F2, RPLP2P3","Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs12871532-T,1 x 10-6,(Modelling analysis),-,1.06,-,[1.04-1.09],"LIG4, FAM155A","Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs4730430-T,3 x 10-6,(Modelling analysis),-,1.06,-,[1.03-1.08],LOC105375451,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs6867265-A,2 x 10-6,(Modelling analysis),-,1.11,-,[1.06-1.16],"HINT1, LOC105379172","Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs10255295-A,5 x 10-6,(Modelling analysis),-,1.1,-,[1.06-1.14],"RPS17P12, LOC107986749","Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs609412-A,2 x 10-6,(Modelling analysis),-,1.07,-,[1.04-1.10],PPP2R2B,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs9371601-?,4 x 10-9,(Modelling analysis),0.346,-,-,-,SYNE1,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs360932-A,8 x 10-6,(Modelling analysis),-,1.06,-,[1.03-1.08],"RNA5SP169, LOC100996286","Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs13418455-T,1 x 10-6,(Modelling analysis),-,1.06,-,[1.04-1.09],"LOC105373768, LOC105373767","Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs11731175-T,5 x 10-6,(Modelling analysis),-,1.06,-,[1.03-1.09],"LOC101930028, LOC105377611","Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs2297909-A,2 x 10-6,(Modelling analysis),-,1.06,-,[1.04-1.09],KIF21B,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs3791556-A,8 x 10-6,(Modelling analysis),-,1.08,-,[1.04-1.11],HDAC4,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs3132581-G,2 x 10-7,(Modelling analysis),-,-,-,-,DPCR1,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs1480380-C,6 x 10-7,(Modelling analysis),0.908,-,-,-,"HLA-DMB, HLA-DMA","Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, bipolar disorder, autism spectrum disorder, attention deficit hyperactivity disorder",GCST001877
+rs4741652-T,7 x 10-6,(Modelling analysis),NR,1.07,-,[1.04-1.12],LOC107987043,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs10994359-C,3 x 10-9,(5 degree of freedom test),NR,1.081,-,[1.03-1.13],ANK3,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs1006737-?,5 x 10-9,(5 degree of freedom test),NR,1.071,-,[1.05-1.10],CACNA1C,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs8321-?,8 x 10-9,(5 degree of freedom test),NR,1.081,-,[1.04-1.12],ZNRD1,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs2252865-T,5 x 10-7,(5 degree of freedom test),NR,1.03,-,[1.00-1.06],RERE,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs1715-T,6 x 10-7,(5 degree of freedom test),NR,1.41,-,[1.29-1.53],ZNF615,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs4650608-T,1 x 10-6,(5 degree of freedom test),NR,1.06,-,[1.03-1.09],"LOC652549, ADGRL4","Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs6990255-T,2 x 10-6,(5 degree of freedom test),NR,1.146,-,[1.09-1.20],"RPL10AP3, LOC105379365","Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs9834970-C,2 x 10-6,(5 degree of freedom test),NR,1.051,-,[1.03-1.07],"LOC105377030, LOC105377031","Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs7004633-?,3 x 10-8,(Modelling analysis),0.184,-,-,-,"LOC105375631, LOC105375629","Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs447-C,4 x 10-6,(5 degree of freedom test),NR,1.025,-,[1.00-1.05],SEMA3A,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs7799006-C,5 x 10-6,(5 degree of freedom test),NR,1.059,-,[1.03-1.08],FTSJ2,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs363598-C,5 x 10-6,(5 degree of freedom test),NR,1.006,-,[0.98-1.03],GRIK1,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs2675968-T,5 x 10-6,(5 degree of freedom test),NR,1.016,-,[0.99-1.04],C2orf82,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs703970-C,5 x 10-6,(5 degree of freedom test),NR,1.01,-,[0.99-1.03],ZMIZ1,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs7948661-C,5 x 10-6,(5 degree of freedom test),NR,1.05,-,[1.00-1.10],KMT2A,"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
+rs11827962-C,6 x 10-6,(5 degree of freedom test),NR,1.044,-,[0.94-1.15],"ANO5, SLC17A6","Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)","schizophrenia, unipolar depression, autism spectrum disorder, bipolar disorder, attention deficit hyperactivity disorder",GCST001877
