@@ -18,4 +18,13 @@ class Interactome(object):
             self.G.add_node(src)
             self.G.add_node(dest)
             self.G.add_edge(src, dest)
+    
+    def filter(self, genes):
+        return list(filter(self.G.has_node, genes))
+    
+    def subgraph(self, genes, filter=True):
+        if filter:
+            filtered_genes = self.filter(genes)
+        filtered_genes = genes
 
+        return self.G.subgraph(filtered_genes)
